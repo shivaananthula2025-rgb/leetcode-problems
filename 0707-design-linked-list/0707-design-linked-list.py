@@ -1,7 +1,7 @@
 class list_node(object):
     def __init__(self,val=0,next=None):
         self.val=val
-        self.next=None
+        self.next=next
 class MyLinkedList(object):
 
     def __init__(self):
