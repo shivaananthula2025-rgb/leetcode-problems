@@ -39,4 +39,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
