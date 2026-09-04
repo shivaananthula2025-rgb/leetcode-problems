@@ -52,6 +52,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
