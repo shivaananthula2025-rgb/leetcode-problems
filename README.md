@@ -65,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -89,4 +90,16 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
