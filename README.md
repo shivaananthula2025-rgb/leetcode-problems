@@ -58,6 +58,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
+| [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
