@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -62,6 +63,7 @@
 | [0041-first-missing-positive](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
@@ -73,6 +75,7 @@
 | [0001-two-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
@@ -129,4 +132,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
