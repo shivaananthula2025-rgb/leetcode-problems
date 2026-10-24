@@ -8,6 +8,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0257-binary-tree-paths) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Backtracking
@@ -116,4 +118,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
+## Greedy
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
