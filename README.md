@@ -7,6 +7,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
