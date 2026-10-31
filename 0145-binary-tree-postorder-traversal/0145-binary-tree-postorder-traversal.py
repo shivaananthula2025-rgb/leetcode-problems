@@ -11,11 +11,11 @@ class Solution(object):
         :rtype: List[int]
         """
         result=[]
-        def postorder(curr,result):
-            if not curr:
+        def postorder(root):
+            if root is None:
                 return
-            postorder(curr.left,result)
-            postorder(curr.right,result)
-            result.append(curr.val)
-        postorder(root,result)
+            postorder(root.left)
+            postorder(root.right)
+            result.append(root.val)
+        postorder(root)
         return result
