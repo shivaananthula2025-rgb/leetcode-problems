@@ -11,12 +11,13 @@ class Solution(object):
         :rtype: List[int]
         """
         result=[]
-        def preorder(curr,result):
-            if not curr:
+        def preorder(root):
+            if root is None:
                 return
-            result.append(curr.val)
-            preorder(curr.left,result)
-            preorder(curr.right,result)
-        preorder(root,result)
+
+            result.append(root.val)
+            preorder(root.left)
+            preorder(root.right)
+        preorder(root)
         return result
         
