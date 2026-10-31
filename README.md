@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -31,6 +33,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -153,4 +156,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
