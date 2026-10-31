@@ -61,6 +61,7 @@
 | [0001-two-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -82,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
