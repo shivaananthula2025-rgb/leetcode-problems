@@ -23,6 +23,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -45,6 +46,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 ## String
 |  |
 | ------- |
@@ -176,4 +178,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
