@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
