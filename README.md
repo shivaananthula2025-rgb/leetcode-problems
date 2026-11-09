@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
