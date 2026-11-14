@@ -88,6 +88,7 @@
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
+| [3693-climbing-stairs-ii](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -138,6 +139,7 @@
 | [0070-climbing-stairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [3693-climbing-stairs-ii](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |
