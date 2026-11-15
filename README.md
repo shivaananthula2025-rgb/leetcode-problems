@@ -89,6 +89,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3693-climbing-stairs-ii](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,4 +204,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
+## Matrix
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
