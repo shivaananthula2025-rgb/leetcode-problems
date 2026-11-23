@@ -74,6 +74,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0041-first-missing-positive) |
@@ -161,6 +162,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -199,6 +201,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
