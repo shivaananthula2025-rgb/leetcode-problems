@@ -87,6 +87,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [3693-climbing-stairs-ii](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
@@ -178,6 +179,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Quicksort
 |  |
 | ------- |
