@@ -79,6 +79,7 @@
 | [0066-plus-one](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -196,6 +198,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Quicksort
 |  |
 | ------- |
