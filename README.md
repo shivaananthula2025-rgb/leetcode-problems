@@ -58,6 +58,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1768-merge-strings-alternately](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Backtracking
 |  |
 | ------- |
@@ -210,6 +211,7 @@
 | [0344-reverse-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Quicksort
 |  |
 | ------- |
