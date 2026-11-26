@@ -87,6 +87,7 @@
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
@@ -103,6 +104,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -135,6 +137,7 @@
 | [0035-search-insert-position](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
@@ -185,6 +188,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -209,6 +213,7 @@
 | [0075-sort-colors](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1768-merge-strings-alternately) |
