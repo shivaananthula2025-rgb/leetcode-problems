@@ -93,6 +93,7 @@
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
@@ -116,6 +117,7 @@
 | [0066-plus-one](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0509-fibonacci-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
