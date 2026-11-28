@@ -93,6 +93,7 @@
 | [0682-baseball-game](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1470-shuffle-the-array) |
@@ -112,6 +113,7 @@
 | [0169-majority-element](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [1207-unique-number-of-occurrences](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
