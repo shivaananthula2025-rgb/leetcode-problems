@@ -100,6 +100,7 @@
 | [1512-number-of-good-pairs](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/1929-concatenation-of-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [3693-climbing-stairs-ii](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3693-climbing-stairs-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/shivaananthula2025-rgb/leetcode-problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
